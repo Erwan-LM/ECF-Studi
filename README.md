@@ -1,4 +1,4 @@
-# ECF-Studi2023 - Guide d'installation
+# ECF-Studi - Guide d'installation
 
 ## Étape 1: Installation de MAMP
 
@@ -11,9 +11,9 @@
 ## Étape 2: Installation de MySQL Workbench
 
 - Téléchargez et installez MySQL Workbench 8.0.33 (ou tout autre logiciel de gestion de base de données) depuis le site officiel : [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)
-- Sur ma page GitHub ([https://github.com/Erwan-LM/ECF-Studi2023/tree/main](https://github.com/Erwan-LM/ECF-Studi2023/tree/main)), ouvrez le fichier `BD.sql`
+- Sur ma page GitHub ([https://github.com/Erwan-LM/ECF-Studi/tree/main](https://github.com/Erwan-LM/ECF-Studi/tree/main)), ouvrez le fichier `BD.sql`
 - Exécutez les requêtes SQL dans MySQL Workbench en utilisant l'icône d'exécution (éclair)
--  Sur ma page GitHub ([https://github.com/Erwan-LM/ECF-Studi2023/tree/main](https://github.com/Erwan-LM/ECF-Studi2023/tree/main)), récupérer le dépot et placer le dans le dossier de mamp > htdocs
+-  Sur ma page GitHub ([https://github.com/Erwan-LM/ECF-Studi/tree/main](https://github.com/Erwan-LM/ECF-Studi/tree/main)), récupérer le dépot et placer le dans le dossier de mamp > htdocs
 
 ## Étape 3: Configuration de la base de données
 
