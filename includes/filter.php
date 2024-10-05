@@ -109,3 +109,4 @@ $marques = $statementMarques->fetchAll(PDO::FETCH_COLUMN);
   </script>
   <div id="vehicules-container"></div>
 </div>
+
